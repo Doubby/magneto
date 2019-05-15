@@ -1,0 +1,2 @@
+# magneto
+A SpringBoot Template
